@@ -62,11 +62,11 @@ std::cout << CLR(YELLOW) << BG_CLR(RED) << "Yellow Text on Red Background\n\n" <
 
 ## Few Examples :
 
-[lodingBar](https://imgur.com/a/pWlpTqK)
 
-![image](https://github.com/ArcShahi/arc_color/assets/90377780/96a826c8-75c9-4c4d-bb4f-6af23aae6472)
 
-![image](https://github.com/ArcShahi/arc_color/assets/90377780/b37e0791-fd21-49ca-bf45-87e94eb68675)
+![Loding Bar](https://github.com/ArcShahi/arc_color/assets/90377780/96a826c8-75c9-4c4d-bb4f-6af23aae6472)
+
+![tree](https://github.com/ArcShahi/arc_color/assets/90377780/b37e0791-fd21-49ca-bf45-87e94eb68675)
 
 
 
