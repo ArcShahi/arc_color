@@ -64,7 +64,9 @@ std::cout << CLR(YELLOW) << BG_CLR(RED) << "Yellow Text on Red Background\n\n" <
 
 [lodingBar](https://imgur.com/a/pWlpTqK)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/pWlpTqK" data-context="false" ><a href="//imgur.com/a/pWlpTqK"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[X-mas Tree](https://imgur.com/a/CNKD45f)
+
+[Color examples](https://imgur.com/a/fGhqhbH)
 
 
 
