@@ -77,7 +77,7 @@ std::cout << CLR(YELLOW) << BG_CLR(RED) << "Yellow Text on Red Background\n\n" <
 
 
 
-## Table to choose colors 
+## Table-to-choose-colors 
 
 | Color code    | Full Name  |
 |-------------|------------|
