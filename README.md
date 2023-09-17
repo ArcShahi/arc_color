@@ -28,7 +28,7 @@ printf(CLR(RED)"Red text\n"RESET); // CLR(color_name) : follow the syntax as it 
 
 ```
 
-## change Background Color in
+## Change Background Color in
 
 
 ### C++
