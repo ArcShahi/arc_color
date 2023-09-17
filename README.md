@@ -79,7 +79,7 @@ std::cout << CLR(YELLOW) << BG_CLR(RED) << "Yellow Text on Red Background\n\n" <
 
 ---
 ## Extra feature :
->[!info]
+>[note]
 >use this to clear the screen : `std::cout<<clrsrc;` to clear the terminal.
 
 
