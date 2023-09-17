@@ -9,7 +9,7 @@ The header for C/CPP which will help output text in different colors and styles.
 3.  not add this header in your code using `#include "arc_color.h"`
 4.  Done >_<
 
-See color Table[^1] at the bottom to choose color from.
+See [Color Table](### Table to choose colors) at the bottom to choose color from.
 
 
    ## HOW TO COLOR TEXT IN C++
@@ -78,7 +78,7 @@ std::cout << CLR(YELLOW) << BG_CLR(RED) << "Yellow Text on Red Background\n\n" <
 
 
 ## Table to choose colors 
-[^1]: Table
+
 | Color code    | Full Name  |
 |-------------|------------|
 | RED         | RED        |
