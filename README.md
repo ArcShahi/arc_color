@@ -49,7 +49,7 @@ std::cout << BG_CLR(VIOLET) << "White text on violet Background\n" << RESET;
 
 ```
 
- ## We can also change the Background  and color at the same time (ONLY SUPPORTED IN C++ )
+ ## Change the Background and color at the same time (ONLY SUPPORTED IN C++ )
 
 ```cpp
 
@@ -85,9 +85,13 @@ std::cout << CLR(YELLOW) << BG_CLR(RED) << "Yellow Text on Red Background\n\n" <
 
 ### You can also use any color from  0-255 ( may not be supported by Many consoles ).
 
+```cpp
+   std::cout <<CLR(200)<< " Colored Text \n"<<RESET;
+```
+
 >[!note]
 >Many changes will be made within the upcoming weeks, this Library is nowwhere near complete.
 >The source code will posted here once few changes and optimization is done.
-> I must learn few
+>first I must learn few things ( I'll split this Libray for C / C++ differently , because I"ve better options to write this library for C++ only.
 
 ## Please provide any feed back you've.
