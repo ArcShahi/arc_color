@@ -117,5 +117,5 @@ std::cout << CLR(YELLOW) << BG_CLR(RED) << "Yellow Text on Red Background\n\n" <
 
 ## Please provide any feedback/issues you've.
 
-## Hritik Shahi  ( ICFA UNIVERSITY )
+## Hritik Shahi  ( ICFAI UNIVERSITY )
 
