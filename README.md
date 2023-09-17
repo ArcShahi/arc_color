@@ -59,9 +59,15 @@ std::cout << CLR(YELLOW) << BG_CLR(RED) << "Yellow Text on Red Background\n\n" <
 
 ---
 
+## Few Examples :
+
+
+
+
+
 ## Table to choose colors 
 
-| Color       | Full Name  |
+| Color code    | Full Name  |
 |-------------|------------|
 | RED         | RED        |
 | RASP        | Raspberry  |
