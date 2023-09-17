@@ -103,7 +103,9 @@ std::cout << CLR(YELLOW) << BG_CLR(RED) << "Yellow Text on Red Background\n\n" <
 
 >[!note]
 > -Many changes will be made within the upcoming weeks, this Library is nowwhere near complete.
+>
 > -The source code will posted here once few changes and optimization is done.
+> 
 > -First I must learn few things ( I'll split this Libray for C / C++ differently , because I"ve better options to write this library for C++ only.
 
 ## Please provide any feedback/issues you've.
