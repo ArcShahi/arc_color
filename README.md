@@ -62,7 +62,7 @@ std::cout << CLR(YELLOW) << BG_CLR(RED) << "Yellow Text on Red Background\n\n" <
 
 ## Few Examples :
 
-![lodingBar](https://imgur.com/a/pWlpTqK)
+[lodingBar](https://imgur.com/a/pWlpTqK)
 
 
 
