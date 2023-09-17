@@ -1,4 +1,4 @@
-# Want to color of terimal text  ?!
+# Want to change color of terimal text  ?!
 
 This will take just few minutes, so read it completely. 
 The header for C/CPP which will help output text in different colors and styles.
