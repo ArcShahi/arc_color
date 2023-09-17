@@ -69,12 +69,10 @@ std::cout << CLR(YELLOW) << BG_CLR(RED) << "Yellow Text on Red Background\n\n" <
 ![tree](https://github.com/ArcShahi/arc_color/assets/90377780/b37e0791-fd21-49ca-bf45-87e94eb68675)
 
 
+![clr text](https://github.com/ArcShahi/arc_color/assets/90377780/30a472d4-9553-4458-bafa-787474537d8a)
 
 
 
-[X-mas Tree](https://imgur.com/a/CNKD45f)
-
-[Color examples](https://imgur.com/a/fGhqhbH)
 
 
 
