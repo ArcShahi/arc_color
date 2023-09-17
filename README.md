@@ -1,7 +1,7 @@
 # Want to change color of terimal text  ?!
 
-This will take just few minutes, so read it completely. 
-The header for C/CPP which will help output text in different colors and styles.
+This will take just **few minutes**, so read it completely. 
+The header for **C/CPP**  which will help output text in different colors and styles.
 
 ### Steps to Setup this in your code :
 1. Go to this link and download the header file : [Download Here](https://www.mediafire.com/file/vupzeueiilw3bay/arc_color.h/file)
@@ -116,7 +116,7 @@ std::cout << CLR(YELLOW) << BG_CLR(RED) << "Yellow Text on Red Background\n\n" <
 >
 > -The source code will posted here for collaborations and commits once few changes and optimization is done. This library is just a prototype.
 > 
-> -First I must learn few things ( I'll split this Libray for C / C++ differently , because I"ve better options to write this library for C++ only.
+> -First I must learn few things ( I'll split this Libray for C / C++ differently , because I"ve better options to write this library for C++ only ).
 
 ## Please provide any feedback/issues you've.
 
