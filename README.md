@@ -60,6 +60,9 @@ std::cout << CLR(YELLOW) << BG_CLR(RED) << "Yellow Text on Red Background\n\n" <
 
 ---
 
+>[!warning]
+>Make sure you follow the Syntax Properly else it won't work.
+
 ## Few Examples :
 
 
