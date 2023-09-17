@@ -1,2 +1,93 @@
-# arc_color
+# Want to color of of terimal text  ?!
+
 The header for C/CPP which will help output text in different colors and styles.
+
+### Steps to Setup in your code :
+1. Go to this link and download the header file : [header file](https://www.mediafire.com/file/vupzeueiilw3bay/arc_color.h/file)
+2. Add this file to your code diretory.
+3.  not add this header in your code using `#include "arc_color.h"`
+4.  Done >_<
+
+see color table at the bottom to choose color from.
+
+
+   ## HOW TO COLOR TEXT IN C++
+   ```cpp
+ int main() {
+      std::cout << CLR(RED) << " RED TEXT\n";
+      std::cout << CLR(PINK) << "Pink Text\n";
+      std::cout << CLR(YELLOW) << "Yello Text\n";
+     std::cout << CLR(ORANGE) << "Orange Text\n"<<RESET; // this resets the terminal foramtting
+}
+```
+
+## IN C
+
+```c
+printf(CLR(RED)"Red text\n"RESET); // CLR(color_name) : follow the syntax as it is and use RESET when changing background color.
+
+```
+
+## change Background Color in
+
+
+### C++
+
+```cpp
+
+std::cout << BG_CLR(RED) << "White text on Red Background\n"<<RESET;
+std::cout << BG_CLR(VIOLET) << "White text on violet Background\n" << RESET;
+
+```
+
+### C
+
+```c
+
+ printf( BG_CLR(VIOLET)"violet Backgroung\n"RESET); // BG_CLR(color_name)
+
+
+```
+
+ ## We can also change the Background  and color at the same time (ONLY SUPPORTED IN C++ )
+
+```cpp
+
+std::cout << CLR(YELLOW) << BG_CLR(RED) << "Yellow Text on Red Background\n\n" << RESET; 
+
+```
+
+---
+
+## Table to choose colors 
+
+| Color       | Full Name  |
+|-------------|------------|
+| RED         | RED        |
+| RASP        | Raspberry  |
+| PINK        | Pink       |
+| YELLOW      | Yellow     |
+| L_YELLOW    | Light Yellow |
+| ORANGE      | Orange     |
+| BLUE        | Blue       |
+| SKY_BLUE    | Sky Blue   |
+| CYAN        | Cyan       |
+| TEAL        | Teal       |
+| GREY        | Grey       |
+| BLACK       | Black      |
+| GREEN       | Green      |
+| L_GREEN     | Light Green |
+| VIOLET      | Violet     |
+| MAGENTA     | Magenta    |
+| WHITE       | White      |
+| RESET       |  resets terminal formatting  |
+
+
+### You can also use any color from  0-255 ( may not be supported by Many consoles ).
+
+>[!note]
+>Many changes will be made within the upcoming weeks, this Library is nowwhere near complete.
+>The source code will posted here once few changes and optimization is done.
+> I must learn few
+
+## Please provide any feed back you've.
