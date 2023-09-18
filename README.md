@@ -18,6 +18,11 @@ See [Color Table](##Table-to-choose-colors) at the bottom to choose color from.
 - Dev C++
 - Sublime Test
 - Compiler Explorer ( Godbolt )
+  
+![image](https://github.com/ArcShahi/arc_color/assets/90377780/666947ce-f5f4-4520-a60f-f5c8257b8645)
+
+works here fine so should work with almost every IDEs
+
 
    ## HOW TO COLOR TEXT IN C++
    ```cpp
