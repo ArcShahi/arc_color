@@ -12,6 +12,13 @@ The header for **C/CPP**  which will help output text in different colors and st
 See [Color Table](##Table-to-choose-colors) at the bottom to choose color from.
 
 
+## Tested on IDEs:
+- VS code
+- Visual Studio
+- Dev C++
+- Sublime Test
+- Compiler Explorer ( Godbolt )
+
    ## HOW TO COLOR TEXT IN C++
    ```cpp
  int main() {
