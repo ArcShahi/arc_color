@@ -47,6 +47,6 @@ Type `Color::color_name << BG::color_name` to Change Text and Background Color.
 >type `RESET` every time you want to reset the Previous Terminal Color foramt.
 
 
-# Few Examples :
+## Few Examples :
 
 ![image](https://github.com/ArcShahi/arc_color/assets/90377780/5761077d-1bcd-4d1b-80bd-dc163de6fdd8)
