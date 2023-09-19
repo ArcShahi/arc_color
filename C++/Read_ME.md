@@ -53,7 +53,7 @@ Type `Color::color_name << BG::color_name` to Change Text and Background Color.
 | Color       | Full Name             |
 |-------------|-----------------------|
 | red         | Red                   |
-| rasp        | Raspberry             |
+| rasp        | Raspberry Red         |
 | pink        | Pink                  |
 | yellow      | Yellow                |
 | Lyellow     | Light Yellow          |
