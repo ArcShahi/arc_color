@@ -53,6 +53,7 @@ enum class BG : std::uint8_t
 	white=15,
 };
 
+
 constexpr char ANSI_COLOR_PREFIX[] = "\033[38;5;";
 
 constexpr char ANSI_BG_COLOR_PREFIX[] = "\033[48;5;";
@@ -70,9 +71,12 @@ std::ostream& operator<<(std::ostream& out, Color color_code)
 
 }
 
-std::ostream& operator<<(std::ostream& out, BG BG_color)
+// for Background color
+std::ostream& operator<<(std::ostream& out, BG BG_color) 
 {
 	return out << ANSI_BG_COLOR_PREFIX << static_cast<short>(BG_color) << 'm';
 }
 
 #endif // ANSI_8BIT_COLORS
+
+
