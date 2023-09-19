@@ -1,7 +1,9 @@
 # Change Terminal text / output in C++ 
 
 ## Steps :
-1. Download the `color_arc.hpp` library from the repo.
+1. Download the `color_arc.hpp` library from  [Here](https://github.com/ArcShahi/arc_color/blob/main/C%2B%2B/color_arc.hpp) 
+Click **Ctrl + Shift + S** or Look to the Top right corner,  click on the 3 dots and You'll get a button to download.
+
 2.  Add that Library to your IDE / Code Editor Directory.
 3.  Include that Library in your code using `#include "color_arc.hpp"`
 4.  Done >_<
