@@ -1,7 +1,7 @@
 # Want to change color of terimal text  ?!
 
 This will take just **few minutes**, so read it completely. 
-The header for **C/CPP**  which will help output text in different colors and styles.
+The header for **C/CPP**  which will help output text in different colors.
 
 ## Instruction to Use the Library
 - For [C++ Code](https://github.com/ArcShahi/arc_color/blob/main/C%2B%2B/Read_ME.md)
@@ -68,6 +68,7 @@ The header for **C/CPP**  which will help output text in different colors and st
 - Possible Syntax improvement for Changing  Color in C and Performance optimization.
 - New Colors
 - RGB Color Support ( Distant Future ).
+- Text Styles ( Italic, Fainted , crossed, Underlined).
 
 
 ---
