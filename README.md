@@ -55,14 +55,14 @@ works here fine so should work with almost every IDEs
 
 ---
 
-## Change Logs !
+## Change Logs ! 📑
 
-## Ver 1.1
-- The Color Sytax for C++ is more clear and readable.
+## Ver 1.1  ☑️✅
+- The Color Sytax for C++ is more clear and readable. 
 - Splitted the single libray for both C/C++ into two different Header for Moderen CPP.
 - Added mmore colors : see color table
 
-## What's next ? 
+## What's next ? ❓
 - Possible improvement in Color Text Syntax in C and Performance optimization.
 - New Colors
 - RGB Color Support ( Distant Future ).
