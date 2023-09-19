@@ -8,10 +8,13 @@
 
 ## Syntax to use it in your code .
 
+
 > [!IMPORTANT]
-> Follow the Syntax Properly
+> Follow the Syntax Properly.
+
 
 ### To change text color only
+
 
 ```cpp
 
