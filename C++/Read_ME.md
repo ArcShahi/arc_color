@@ -47,6 +47,30 @@ Type `Color::color_name << BG::color_name` to Change Text and Background Color.
 >type `RESET` every time you want to reset the Previous Terminal Color foramt.
 
 
+## Color Table
+
+| Color       | Full Name             |
+|-------------|-----------------------|
+| red         | Red                   |
+| rasp        | Raspberry             |
+| pink        | Pink                  |
+| yellow      | Yellow                |
+| Lyellow     | Light Yellow          |
+| orange      | Orange                |
+| blue        | Blue                  |
+| sky_blue    | Sky Blue              |
+| cyan        | Cyan                  |
+| teal        | Teal                  |
+| grey        | Grey                  |
+| black       | Black                 |
+| green       | Green                 |
+| Lgreen      | Light Green           |
+| violet      | Violet                |
+| magenta     | Magenta               |
+| white       | White                 |
+
+
+
 ## Few Examples :
 
 ![image](https://github.com/ArcShahi/arc_color/assets/90377780/5761077d-1bcd-4d1b-80bd-dc163de6fdd8)
