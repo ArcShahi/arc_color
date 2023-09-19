@@ -11,12 +11,13 @@ The header for **C/CPP**  which will help output text in different colors and st
 See [Color Table](##Table-to-choose-colors) at the bottom to choose color from.
 
 
-## Tested on IDEs:
-- VS code
-- Visual Studio
-- Dev C++
-- Sublime Test
-- Compiler Explorer ( Godbolt )
+## Tested on IDEs: 🧑🏻‍💻
+
+- VS code ✅
+- Visual Studio ✅
+- Dev C++   ✅
+- Sublime Test  ✅
+- Compiler Explorer ( Godbolt )  ✅
   
 ![image](https://github.com/ArcShahi/arc_color/assets/90377780/666947ce-f5f4-4520-a60f-f5c8257b8645)
 
@@ -48,7 +49,8 @@ works here fine so should work with almost every IDEs
 
 
 
-## Please provide any feedback/issues you've. If you can help improvve the Code please Do so. 😺
+## Please provide any feedback/issues you've. 
+### If you can help improvve the Code please Do so. 😺
 
 ## Hritik Shahi  ( ICFAI UNIVERSITY )
 
