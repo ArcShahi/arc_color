@@ -78,6 +78,10 @@ Type `Color::color_name << BG::color_name` to Change Text and Background Color.
 | white       | White                 |
 
 
+---
+
+### Extra Feature
+- Type `std::cout<<clrScr;` for clearing enitire terminal output.
 
 ## Few Examples :
 
