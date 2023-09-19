@@ -44,7 +44,7 @@ std::cout << Color::black << BG::white << "Black Text on White Background\n" << 
 Type `Color::color_name << BG::color_name` to Change Text and Background Color.
 
 
->![info]
+>[!INFO]
 >type `RESET` every time you want to reset the Previous Terminal Color foramt.
 
 
