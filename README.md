@@ -60,12 +60,12 @@ The header for **C/CPP**  which will help output text in different colors and st
 ## Change Logs ! 📑
 
 ## Ver 1.1  ☑️✅
-- The Color Sytax for C++ is more clear and readable. 
-- Splitted the single libray for both C/C++ into two different Header for Moderen CPP.
-- Added mmore colors : see color table
+- The Color Syntax for C++ is more clear and readable. 
+- Splitted the single libray for both C/C++ into two different Header for Modern CPP.
+- Added more colors : see color table
 
 ## What's next ? ❓
-- Possible improvement in Color Text Syntax in C and Performance optimization.
+- Possible Syntax improvement for Changing  Color in C and Performance optimization.
 - New Colors
 - RGB Color Support ( Distant Future ).
 
