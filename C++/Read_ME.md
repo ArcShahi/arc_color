@@ -25,6 +25,7 @@ Type `Colors::color_name` to change text color
 ### To change Backgrouond Color only
 
 ```cpp
+
 std::cout << BG::red << "Red Background\n";
 std::cout << BG::violet << "Violet Background\n";
 std::cout << BG::green << "Green Background\n" << RESET;
