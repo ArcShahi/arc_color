@@ -58,21 +58,21 @@ The header for **C/CPP**  which will help output text in different colors.
 ---
 
 ## Change Logs ! 📑
-## Ver 1.2  ☑️✅
+### Ver 1.2  ☑️✅
 - Added more colors in CPP color Library.
 -  Improved Syntax for Changing  Color in C and Performance optimization.
   
 
-## Ver 1.1  ☑️✅
+### Ver 1.1  ☑️✅
 - The Color Syntax for C++ is more clear and readable. 
 - Splitted the single libray for both C/C++ into two different Header for Modern CPP.
 - Added more colors : see color table
 
 ## What's next ? ❓
-- Possible Syntax improvement for Changing  Color in C and Performance optimization.
-- New Colors
+- Possible  Performance optimization.
+- New Colors Maybe
 - RGB Color Support ( Distant Future ).
-- Text Styles ( Italic, Fainted , crossed, Underlined).
+- Text Styles ( Italic, Fainted , crossed, Underlined). Less chance cuz many consoles doen't support text styles.
 
 
 ---
