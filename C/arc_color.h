@@ -1,50 +1,74 @@
 #ifndef ANSI_8BIT_COLORS
 #define ANSI_8BIT_COLORS
 
+// Color codes
 
-// Resets the color formatting
-#define RESET "\033[0m"  
-#define CLS "\033[2J\033[H" // clears the string
+enum CC
+{
 
-// Color codes 
+    red = 160,
+    rasp = 198,
+    pink = 210,
+    yellow = 11,
+    Lyellow = 227,
+    orange = 208,
+    blue = 27,
+    sky_blue = 39,
+    cyan = 51,
+    teal = 30,
+    grey = 8,
+    black = 0,
+    green = 10,
+    Lgreen = 118,
+    violet = 99,
+    magenta = 5,
+    white = 15,
+};
 
-#define RED 160
-#define RASP 198
-#define PINK 201
-#define YELLOW 11
-#define L_YELLOW 227
-#define ORANGE 208
-#define BLUE 27
-#define SKY_BLUE 39
-#define CYAN 51
-#define TEAL 30
-#define GREY 8
-#define BLACK 0
-#define GREEN 10
-#define L_GREEN 118
-#define VIOLET 99
-#define MAGENTA 5
+enum BGCC
+{
 
+    RED = 160,
+    RASP = 198,
+    PINK = 201,
+    YELLOW = 11,
+    LYELLOW = 227,
+    ORANGE = 208,
+    BLUE = 27,
+    SKY_BLUE = 39,
+    CYAN = 51,
+    TEAL = 30,
+    GREY = 8,
+    BLACK = 0,
+    GREEN = 10,
+    L_GREEN = 118,
+    VIOLET = 99,
+    MAGENTA = 5,
 
+};
 
+void Color(enum CC color_code)
+{
 
+    printf("\033[38;5;%dm", color_code);
+}
 
+void BG(enum CC color_code)
+{
+    printf("\033[48;5;%dm", color_code);
+}
 
+void end() { printf("\033[0m"); }
+void rid() { printf("\033[2J\033[H"); }
 
+// Deprecated !!
+// //  ! DON'T TOUCH IT
 
+// // ? FOR TEXT COLOR
+// #define STRINGIFY(TEXT) #TEXT
+// #define CLR(color_code) "\033[38;5;" STRINGIFY(color_code) "m"
 
-
-//  ! DON'T TOUCH IT
-
-// ? FOR TEXT COLOR
-#define STRINGIFY(TEXT) #TEXT
-#define CLR(color_code)  "\033[38;5;" STRINGIFY(color_code) "m"
-
-// ? FOR BACKGROUND COLOR
-#define BG_CLR(color_code) "\033[48;5;" STRINGIFY(color_code) "m"
-
-
-
-
+// // ? FOR BACKGROUND COLOR
+// #define BG_CLR(color_code) "\033[48;5;" STRINGIFY(color_code) "m"
 
 #endif // ANSI_8BIT_COLORS
