@@ -12,7 +12,7 @@
 
 
 ```c
- Color(pink);
+ Color(pink);   // write any color instead of pink ( select from color table)
     printf("Pink Text\n");
     end(); // resets the terminal color to default
 ```
@@ -21,7 +21,7 @@
 
 ```c
 
-BG(RED);
+BG(RED); // replace with any color instead of Red ( select from Color table) case sensitive.
     printf("Red Background\n");
     end();
 
