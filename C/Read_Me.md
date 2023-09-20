@@ -31,8 +31,32 @@ printf(CLR(RED)"Red text\n"RESET); // CLR(color_name) : follow the syntax as it 
 > [!WARNING]
 > Feature yet to be added
 
+---
 
-## Table of Colors
+## Table of Text Colors
+| Color       | Full Name             |
+|-------------|-----------------------|
+| red         | Red                   |
+| rasp        | Raspberry Red         |
+| pink        | Pink                  |
+| yellow      | Yellow                |
+| Lyellow     | Light Yellow          |
+| orange      | Orange                |
+| blue        | Blue                  |
+| sky_blue    | Sky Blue              |
+| cyan        | Cyan                  |
+| teal        | Teal                  |
+| grey        | Grey                  |
+| black       | Black                 |
+| green       | Green                 |
+| Lgreen      | Light Green           |
+| violet      | Violet                |
+| magenta     | Magenta               |
+| white       | White                 |
+
+---
+
+## Table of BackGround  Colors
 
 | Color code    | Full Name  |
 |-------------|------------|
