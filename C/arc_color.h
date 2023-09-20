@@ -62,13 +62,16 @@ void end() { printf("\033[0m"); }
 void rid() { printf("\033[2J\033[H"); }
 
 // Deprecated !!
-// //  ! DON'T TOUCH IT
+/*
+  ! DON'T TOUCH IT
 
-// // ? FOR TEXT COLOR
-// #define STRINGIFY(TEXT) #TEXT
-// #define CLR(color_code) "\033[38;5;" STRINGIFY(color_code) "m"
+ FOR TEXT COLOR
+ #define STRINGIFY(TEXT) #TEXT
+ #define CLR(color_code) "\033[38;5;" STRINGIFY(color_code) "m"
 
-// // ? FOR BACKGROUND COLOR
-// #define BG_CLR(color_code) "\033[48;5;" STRINGIFY(color_code) "m"
+ FOR BACKGROUND COLOR
+ #define BG_CLR(color_code) "\033[48;5;" STRINGIFY(color_code) "m"
+
+*/
 
 #endif // ANSI_8BIT_COLORS
