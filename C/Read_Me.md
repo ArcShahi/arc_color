@@ -56,7 +56,7 @@ BG(rec); // replace with any color instead of Red ( select from Color table)
 | violet      | Violet                |
 | magenta     | Magenta               |
 | white       | White                 |
-| rid    | resets termial color to default | 
+| rid    | Resets Termial color to default | 
 
 ---
 
