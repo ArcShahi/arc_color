@@ -32,7 +32,7 @@ enum BGCC
     RASP = 198,
     PINK = 201,
     YELLOW = 11,
-    LYELLOW = 227,
+    L_YELLOW = 227,
     ORANGE = 208,
     BLUE = 27,
     SKY_BLUE = 39,
