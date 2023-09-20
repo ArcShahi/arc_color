@@ -21,7 +21,7 @@
 
 ```c
 
-BG(RED); // replace with any color instead of Red ( select from Color table) case sensitive.
+BG(rec); // replace with any color instead of Red ( select from Color table)
     printf("Red Background\n");
     end();
 
@@ -56,31 +56,13 @@ BG(RED); // replace with any color instead of Red ( select from Color table) cas
 | violet      | Violet                |
 | magenta     | Magenta               |
 | white       | White                 |
+| rid    | resets termial color to default | 
 
 ---
 
-## Table of BackGround  Colors
 
-| Color code    | Full Name  |
-|-------------|------------|
-| RED         | RED        |
-| RASP        | Raspberry  |
-| PINK        | Pink       |
-| YELLOW      | Yellow     |
-| L_YELLOW    | Light Yellow |
-| ORANGE      | Orange     |
-| BLUE        | Blue       |
-| SKY_BLUE    | Sky Blue   |
-| CYAN        | Cyan       |
-| TEAL        | Teal       |
-| GREY        | Grey       |
-| BLACK       | Black      |
-| GREEN       | Green      |
-| L_GREEN     | Light Green |
-| VIOLET      | Violet     |
-| MAGENTA     | Magenta    |
-| WHITE       | White      |
-| end()       |  resets terminal formatting  |
+
+
 
 
 ---
