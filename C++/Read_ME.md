@@ -62,8 +62,10 @@ Type `Color::color_name << BG::color_name` to Change Text and Background Color.
 | Color       | Full Name             |
 |-------------|-----------------------|
 | red         | Red                   |
+| crimson     | Crimson red           |
 | rasp        | Raspberry Red         |
 | pink        | Pink                  |
+| hot_pink    |  More Pink            |
 | yellow      | Yellow                |
 | Lyellow     | Light Yellow          |
 | orange      | Orange                |
@@ -76,8 +78,10 @@ Type `Color::color_name << BG::color_name` to Change Text and Background Color.
 | green       | Green                 |
 | Lgreen      | Light Green           |
 | violet      | Violet                |
+| lavender    | Lavender flower       |
 | magenta     | Magenta               |
 | white       | White                 |
+| brown       | yes                   |
 
 
 ---
