@@ -36,9 +36,11 @@ enum class BG : std::uint8_t
 {
 
 	red = 160,
+	crimson=124, // new
 	rasp = 198,
-	pink = 210,
-	yellow = 11,
+	pink = 201,
+	hot_pink=198, //new
+    yellow = 11, 
 	Lyellow = 227,
 	orange = 208,
 	blue = 27,
@@ -50,6 +52,7 @@ enum class BG : std::uint8_t
 	green = 10,
 	Lgreen = 118,
 	violet = 99,
+	lavender=135, //new
 	magenta = 5,
 	white=15,
 	brown = 94,
