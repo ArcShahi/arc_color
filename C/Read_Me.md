@@ -12,15 +12,18 @@
 
 
 ```c
-printf(CLR(RED)"Red text\n"RESET); // CLR(color_name) : follow the syntax as it is and use RESET when changing background color.
-
+ Color(pink);
+    printf("Pink Text\n");
+    end(); // resets the terminal color to default
 ```
 
 ### To change Background Color Only
 
 ```c
 
- printf( BG_CLR(VIOLET)"violet Backgroung\n"RESET); // BG_CLR(color_name)
+BG(RED);
+    printf("Red Background\n");
+    end();
 
 ```
 
@@ -77,7 +80,7 @@ printf(CLR(RED)"Red text\n"RESET); // CLR(color_name) : follow the syntax as it 
 | VIOLET      | Violet     |
 | MAGENTA     | Magenta    |
 | WHITE       | White      |
-| RESET       |  resets terminal formatting  |
+| end()       |  resets terminal formatting  |
 
 
 ---
