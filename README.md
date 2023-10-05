@@ -71,8 +71,7 @@ The header for **C/CPP**  which will help output text in different colors.
 ## What's next ? ❓
 - Possible  Performance optimization.
 - New Colors Maybe
-- RGB Color Support ( Distant Future ).
-- Text Styles ( Italic, Fainted , crossed, Underlined). Less chance cuz many consoles doen't support text styles.
+- Supported Text Styles .
 
 
 ---
