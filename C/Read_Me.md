@@ -1,8 +1,8 @@
 # Change Terminal Text / Output in C
 
 ## Steps :
-1. Down the `arc_color.h` Library from the repo.
-2. Add that Library to your IDE / Code ediotr Directory.
+1. Down the `arc_color.h` Header File from the repo.
+2. Add that Header File to your IDE / Code ediotr Directory.
 3. Include that header in your Traslation Unit using `#include <arc_color.h>
 4. Done >_<
 
