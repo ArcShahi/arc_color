@@ -34,7 +34,6 @@ The header for **C/CPP**  which will help output text in different colors.
 
 
 
-![Loding Bar](https://github.com/ArcShahi/arc_color/assets/90377780/96a826c8-75c9-4c4d-bb4f-6af23aae6472)
 ![Loading_Bar](https://github.com/ArcShahi/arc_color/assets/90377780/4fb847dc-c8f0-48f6-9dde-da5185c1f9cd)
 
 
