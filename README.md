@@ -59,7 +59,7 @@ The header for **C/CPP**  which will help output text in different colors.
 ---
 
 ## Change Logs ! 📑
-### Ver 1.2 [current] ☑️✅
+### Ver 1.2 [current (maybe Final)] ☑️✅
 - Added more colors in CPP color Header file.
 -  Improved Syntax for Changing  Color in C and Performance optimization.
   
