@@ -3,7 +3,7 @@
 This will take just **few minutes**, so read it completely. 
 The header for **C/CPP**  which will help output text in different colors.
 
-## Instruction to Use the Library
+## Instruction to Use the Header file
 - For [C++ Code](https://github.com/ArcShahi/arc_color/blob/main/C%2B%2B/Read_ME.md) (recommended).
 - For [C Code](https://github.com/ArcShahi/arc_color/blob/main/C/Read_Me.md)
 
@@ -60,7 +60,7 @@ The header for **C/CPP**  which will help output text in different colors.
 
 ## Change Logs ! 📑
 ### Ver 1.2 [current] ☑️✅
-- Added more colors in CPP color Library.
+- Added more colors in CPP color Header file.
 -  Improved Syntax for Changing  Color in C and Performance optimization.
   
 
