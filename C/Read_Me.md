@@ -1,9 +1,9 @@
 # Change Terminal Text / Output in C
 
 ## Steps :
-1. Down the `arc_color.h` Header File from the repo.
+1. Download the `arc_color.h` Header File from the repo.
 2. Add that Header File to your IDE / Code ediotr Directory.
-3. Include that header in your Traslation Unit using `#include <arc_color.h>
+3. Include that header in your Traslation Unit using `#include "arc_color.h"`
 4. Done >_<
 
 ## Syntax to use it in your code. 
