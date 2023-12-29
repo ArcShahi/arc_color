@@ -59,7 +59,10 @@ The header for **C/CPP**  which will help output text in different colors.
 ---
 
 ## Change Logs ! 📑
-### Ver 1.2 [current (maybe Final)] ☑️✅
+
+### Ver 1.2.1 [ Current ] Final
+
+### Ver 1.2 ☑️✅
 - Added more colors in CPP color Header file.
 -  Improved Syntax for Changing  Color in C and Performance optimization.
   
@@ -68,11 +71,5 @@ The header for **C/CPP**  which will help output text in different colors.
 - The Color Syntax for C++ is more clear and readable. 
 - Splitted the single libray for both C/C++ into two different Header for Modern CPP.
 - Added more colors : see color table
-
-## What's next ? ❓
-- Possible  Performance optimization.
-- New Colors Maybe
-- Supported Text Styles .
-
 
 ---
