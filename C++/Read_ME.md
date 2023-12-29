@@ -22,7 +22,7 @@ Click **Ctrl + Shift + S** or Look to the Top right corner,  click on the 3 dots
 
 std::cout << Color::red << "Red Text\n";
 std::cout << Color::yellow << " Yellow Text\n";
-std::cout << Color::cyan << "Cyan Text\n\n\n"<<RESET;
+std::cout << Color::cyan << "Cyan Text\n\n\n"<<NoClr;
 
 
 ```
@@ -36,7 +36,7 @@ Type `Colors::color_name` to change text color
 
 std::cout << BG::red << "Red Background\n";
 std::cout << BG::violet << "Violet Background\n";
-std::cout << BG::green << "Green Background\n" << RESET;
+std::cout << BG::green << "Green Background\n" << NoClr;
 
 ```
 Type `BG::color_name` to change Background Colors
@@ -46,7 +46,7 @@ Type `BG::color_name` to change Background Colors
 ```cpp
 
 std::cout << Color::yellow << BG::red << "Yellow Text on Red Background\n";
-std::cout << Color::black << BG::white << "Black Text on White Background\n" << RESET;
+std::cout << Color::black << BG::white << "Black Text on White Background\n" << NoClr;
 
 ```
 Type `Color::color_name << BG::color_name` to Change Text and Background Color.
@@ -54,7 +54,7 @@ Type `Color::color_name << BG::color_name` to Change Text and Background Color.
 
 
 > [!NOTE]
->type `RESET` every time you want to reset the Previous Terminal Color foramt.
+>type `NoClr` every time you want to reset the Previous Terminal Color foramt.
 
 
 ## Color Table
@@ -87,7 +87,7 @@ Type `Color::color_name << BG::color_name` to Change Text and Background Color.
 ---
 
 ### Extra Feature
-- Type `std::cout<<clrScr;` for clearing enitire terminal output.
+- Type `std::cout<<CLS;` for clearing enitire terminal output.
 
 ## Few Examples :
 
