@@ -68,7 +68,7 @@ The header for **C/CPP**  which will help output text in different colors.
   
 
 ### Ver 1.1  ☑️✅
-- The Color Syntax for C++ is more clear and readable. 
+- The Color Syntax for C++ is more concise and readable. 
 - Splitted the single libray for both C/C++ into two different Header for Modern CPP.
 - Added more colors : see color table
 
